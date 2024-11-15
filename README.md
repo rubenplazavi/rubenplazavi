@@ -1,8 +1,8 @@
 ## Hi there! 👋 <br> I'm Ruben, Welcome to my profile 
 
-### About me
+## About me
 
-I am a junior backend developer with a great curiosity and passion for finding logic in things and solving problems. I am always looking to acquire new knowledge and improve my skills. I have professional experience in developing and maintaining applications with Node.js/NestJS, working with technologies such as Typescript, MongoDB, and TypeOrm.
+I am a junior backend developer with a great curiosity and passion for finding logic in things and solving problems. Always looking to acquire new knowledge and improve my skills. I have professional experience in developing and maintaining applications with Node.js/NestJS, working with technologies such as Typescript, MongoDB, and TypeOrm.
 
 I am interested in learning more about pattern desings, refactoring and I would also love to learn more about frontend development to get a more comprehensive understanding of the whole picture and to become a full stack developer. I am highly motivated to continue growing professionally as a programmer and I enjoy collaborating in a team. Additionally, I am fluent in English thanks to my experience living and working in several English-speaking countries.
 
@@ -10,7 +10,7 @@ In my free time, I enjoy combining outdoor sports with training in various areas
 <br>
 
 
-<h2 >👨🏻‍💻 Technologies I am working at the momento with: </h2>
+## 👨🏻‍💻 Technologies I am working at the moment with:
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
