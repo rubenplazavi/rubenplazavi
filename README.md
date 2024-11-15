@@ -1,11 +1,12 @@
-## I'm Ruben, Welcome to my profile 👋
-
+## Hi there! 👋 <br> I'm Ruben, Welcome to my profile 
+<!--
 ### About me
 <br>
 
 <br>
-              
-<h2 >Tecnologías con las que trabajo actualmente <👨🏻‍💻</h2>
+-->
+
+<h2 >👨🏻‍💻 Technologies I am working at the momento with: </h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
