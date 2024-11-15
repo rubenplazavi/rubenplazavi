@@ -1,5 +1,6 @@
 ## Hi there! 👋 <br> I'm Ruben, Welcome to my profile 
 
+![wallpaper_github](https://github.com/user-attachments/assets/b0e0f154-96e5-4b40-af0f-bf5757d62472)
 
 
 # 💫 About Me:
