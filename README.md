@@ -1,16 +1,22 @@
-## Hi there 👋
+## I'm Ruben, Welcome to my profile 👋
 
-<!--
-**rubenplazavi/rubenplazavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+<br>
 
-Here are some ideas to get you started:
+<br>
+              
+<h2 >Tecnologías con las que trabajo actualmente <👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nestjs,nodejs,typescript,js,css,html,mysql,postgresql,mongodb,git,github,docker,postman,vscode,&perline=12" />
+  </a>
+</p>
+<br>
+<!-------------------------->
+  <h2>GitHub :octocat:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/ruben-plaza-vicente/)
+[![Email](https://img.shields.io/badge/Email-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:rubenplazavicente@hotmail.com)
+
