@@ -1,7 +1,8 @@
 ## Hi there! 👋 <br> I'm Ruben, Welcome to my profile 
-
+<!--
 ![wallpaper_github](https://github.com/user-attachments/assets/b0e0f154-96e5-4b40-af0f-bf5757d62472)
-
+-->
+![wallpaper_github](https://github.com/user-attachments/assets/edd5cfff-91ef-42d6-94cb-4d8e6efa336b)
 
 # 💫 About Me:
 I am a junior backend developer with a great curiosity and passion for finding logic in things and solving problems. Always looking to acquire new knowledge and improve my skills. I have professional experience in developing and maintaining applications with Node.js/NestJS, working with technologies such as Typescript, MongoDB, and TypeOrm.<br><br>I am interested in learning more about pattern desings, refactoring and I would also love to learn more about frontend development to get a more comprehensive understanding of the whole picture and to become a full stack developer. I am highly motivated to continue growing professionally as a programmer and I enjoy collaborating in a team. Additionally, I am fluent in English thanks to my experience living and working in several English-speaking countries.<br><br>In my free time, I enjoy combining outdoor sports with training in various areas of programming, whether to acquire new knowledge or to strengthen my foundations. 
